@@ -17,11 +17,9 @@ h1 {
 }
 section {
 	float: right;
-	margin: 0 1.5%;
-	width: 75%;
+	width: 80%;
 }
 aside {
 	float: left;
-	margin: 0 1.5%;
-	width: 15%;
+	width: 12%;
 }
