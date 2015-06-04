@@ -7,11 +7,11 @@ h1 {
 	color: #00005C;
 	font-family: "Times New Roman" Helvetica sanserif;
 	font-size: 48px;
-	padding: 0 0 0 20px;
+	padding: 0 0 10px 20px;
 }
 .contact-info li {
 	display: inline;
 	font-family: Calibri Helvetica sanserif;
 	font-size: 16px;
-	padding: 40px 100px 0 20px;
+	padding: 0 100px 0 20px;
 }
