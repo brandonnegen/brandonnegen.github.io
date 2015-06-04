@@ -17,9 +17,10 @@ h1 {
 }
 section {
 	float: right;
-	width: 80%;
+	width: 85%;
 }
 aside {
 	float: left;
 	width: 12%;
+	padding: 0 0 0 20px;
 }
