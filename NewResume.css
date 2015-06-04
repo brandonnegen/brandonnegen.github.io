@@ -1,10 +1,15 @@
+html, body, h1, h2, h3, ul, li, p {
+	padding: 0;
+	border: 0;
+	margin: 0;
+}
 h1 {
 	color: #00005C;
 	font-family: "Times New Roman" Helvetica sanserif;
-	font-size: 24px;
+	font-size: 48px;
 }
-ul {
+.contact-info li {
 	display: inline;
 	font-family: Calibri Helvetica sanserif;
-	font-size: 9px;
+	font-size: 16px;
 }
