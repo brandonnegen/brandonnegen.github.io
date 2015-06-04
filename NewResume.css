@@ -8,9 +8,6 @@ h1 {
 	font-family: "Times New Roman" Helvetica sanserif;
 	font-size: 48px;
 }
-.contact-info ul {
-	display: inline;
-}
 .contact-info li {
 	display: inline;
 	font-family: Calibri Helvetica sanserif;
@@ -18,5 +15,6 @@ h1 {
 	padding: 6px 50px 0 0;
 }
 .vertical-line p {
+	display: inline;
 	border-right: 2px solid black;
 }
