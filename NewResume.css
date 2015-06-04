@@ -16,10 +16,12 @@ h1 {
 	padding: 0 100px 0 20px;
 }
 section {
-	width: 1200px
-	position: top right;
+	float: right;
+	margin: 0 1.5%;
+	width: 80%;
 }
 aside {
-	width: 720px;
-	position: top left;
+	float: left;
+	margin: 0 1.5%;
+	width: 20%;
 }
