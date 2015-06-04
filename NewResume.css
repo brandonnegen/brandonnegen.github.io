@@ -17,9 +17,9 @@ h1 {
 }
 section {
 	width: 1200px
-	display: top right;
+	position: top right;
 }
 aside {
 	width: 720px;
-	display: top left;
+	position: top left;
 }
