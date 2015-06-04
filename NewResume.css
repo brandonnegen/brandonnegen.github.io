@@ -14,3 +14,6 @@ h1 {
 	font-size: 16px;
 	padding: 6px 50px 0 0;
 }
+.vertical-line p {
+	border-right: 2px solid black;
+}
