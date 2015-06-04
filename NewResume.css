@@ -17,12 +17,11 @@ h1 {
 }
 section {
 	float: right;
-	width: 85%;
+	width: 70%;
 	padding: 10px 0 0 0;
 }
 aside {
 	float: left;
-	width: 12%;
+	width: 25%;
 	padding: 10px 0 0 0;
-	border-left: 20px;
 }
