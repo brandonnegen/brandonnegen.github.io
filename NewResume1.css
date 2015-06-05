@@ -1,0 +1,91 @@
+body {
+  color: #222222;
+  font-size: 16px;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.nav,
+.masthead-name,
+.masthead-intro {
+  text-align: center;
+}
+
+.masthead {
+  padding: 96px 0;
+  background-image: url('http://i.imgur.com/lvXbgcg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: solid 16px #FFCF33;
+}
+
+.masthead-intro p {
+  margin-bottom: 1px;
+  font-family: "Gentium Book Basic", Georgia, serif;
+  font-size: 32px;
+  color: #ffffff;
+}
+
+.masthead-name  h1 {
+  margin-top: -3px;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 96px;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+  color: #fff1c2;
+  text-shadow: 0px 3px 0px #ffcf33;
+}
+
+aside, section {
+  max-width: 608px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 32px;
+}
+
+.links li {
+  display: inline-block;
+  font-family: "Gentium Book Basic", Georgia, serif;
+  font-weight: bold;
+  margin-right: 27px;
+}
+
+.highlights h2,
+.computer-skills h2,
+.education-skills h2,
+.experience h2 {
+  font-size: 32px;
+}
+
+.highlights p,
+.computer-skills p,
+.education-skills p,
+.experience p {
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.education-skills h3,
+.experience h3 {
+  font-family: "Gentium Book Basic", Georgia, serif;
+  font-size: 19px;
+  font-weight: bold;
+  margin: 32px 0 2px 0;
+  color: #ffcf33;
+  font-weight: bold;
+}
+
+section > h1 {
+  margin-top: 32px;
+}
+
+a {
+  color: #ffcf33;
+  text-decoration: none;
+}
+
+.nav {
+  margin-top: 80px;
+  padding: 64px 0;
+  background-color: #594f49;
+}
