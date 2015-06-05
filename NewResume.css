@@ -31,6 +31,7 @@ nav {
 	width: 16%;
 	padding: 10px 0 0 0;
 }
-.links li {
+.links ul {
 	display: inline;
+	padding: 0 0 0 50px;
 }
