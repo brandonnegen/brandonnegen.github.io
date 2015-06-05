@@ -5,8 +5,7 @@ body {
 }
 
 nav,
-.masthead-name h1,
-.masthead-intro p {
+header {
   text-align: center;
 }
 
