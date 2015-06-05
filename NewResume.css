@@ -24,10 +24,13 @@ aside {
 section {
 	float: left;
 	width: 55%;
-	padding: 10px 0 0 30px;
+	padding: 10px 0 0 50px;
 }
 nav {
 	float: left;
 	width: 16%;
 	padding: 10px 0 0 0;
+}
+.links li {
+	display: inline;
 }
