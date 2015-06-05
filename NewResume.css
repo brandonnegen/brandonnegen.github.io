@@ -22,13 +22,12 @@ aside {
 	margin: 0 0 0 35px;
 }
 section {
-	float: right;
+	float: left;
 	width: 55%;
 	padding: 10px 0 0 0;
 }
 nav {
-	position: relative;
-	top: 20px;
-	left: -40px;
+	float: left;
+	width: 16%;
 	padding: 10px 0 0 0;
 }
