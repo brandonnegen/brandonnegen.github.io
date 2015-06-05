@@ -4,13 +4,13 @@ body {
   font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-.nav,
-.masthead-name,
-.masthead-intro {
+nav,
+.masthead-name h1,
+.masthead-intro p {
   text-align: center;
 }
 
-.masthead {
+.masthead header {
   padding: 96px 0;
   background-image: url('http://i.imgur.com/lvXbgcg.jpg');
   background-repeat: no-repeat;
@@ -75,16 +75,12 @@ aside, section {
   font-weight: bold;
 }
 
-section > h1 {
-  margin-top: 32px;
-}
-
 a {
   color: #ffcf33;
   text-decoration: none;
 }
 
-.nav {
+nav {
   margin-top: 80px;
   padding: 64px 0;
   background-color: #594f49;
