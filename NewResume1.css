@@ -4,6 +4,12 @@ html, body, h1, h2, h3, ul, li, p {
   margin: 0;
 }
 
+body {
+  color: #222222;
+  font-size: 16px;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
 nav,
 header {
   text-align: center;
