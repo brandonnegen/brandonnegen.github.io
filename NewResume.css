@@ -32,8 +32,9 @@ nav {
 	padding: 10px 0 0 0;
 }
 .links ul {
-	display: inline;
+	padding: 15px 0 0 0;
 }
 .links li {
 	display: inline;
+	padding: 15px 0 0 0;
 }
