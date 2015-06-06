@@ -9,6 +9,11 @@ h1 {
 	font-size: 48px;
 	padding: 10px 0 10px 20px;
 }
+h2 {
+	color: #00005C;
+	font-family: "Times New Roman" Helvetica sanserif;
+	padding: 0 0 10px 0;
+}
 .contact-info li {
 	display: inline;
 	font-family: Calibri Helvetica sanserif;
@@ -28,7 +33,7 @@ section {
 }
 nav {
 	float: clear;
-	width: 16%;
+	margin: 0 auto 0 auto;
 	padding: 10px 0 0 0;
 	text-align: center;
 }
