@@ -44,3 +44,8 @@ nav {
 	display: inline;
 	padding: 15px 0 0 0;
 }
+a {
+	text-decoration: none;
+	color: #00005C;
+	padding: 10px 10px 0 10px;
+}
